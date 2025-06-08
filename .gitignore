@@ -1,0 +1,21 @@
+# Зависимости
+node_modules/
+
+# Сборка Webpack
+dist/
+
+# IDE и редакторы
+.vscode/
+.idea/
+
+# Логи
+*.log
+
+# Секреты
+.env
+*.pem
+*.key
+
+# Системные файлы
+.DS_Store
+Thumbs.db
